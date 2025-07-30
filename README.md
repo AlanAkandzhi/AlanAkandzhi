@@ -65,7 +65,7 @@ public class AlanAkandzhi
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| 🎮 Kraken Esports Site | Website for university esports org | Coming Soon |
+| 🎮 Building cool stuff | A big Project inc | Coming Soon |
 | 🕹️ Unity Game | 2D platformer built with Unity | Coming Soon |
 | 🌐 Portfolio Website | Personal site with bio & contact info | Coming Soon |
 
