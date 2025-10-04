@@ -67,7 +67,7 @@ public class AlanAkandzhi
 |--------|-------------|--------|
 | 🎮 Building cool stuff | A big Project inc | Coming Soon |
 | 🕹️ Unity Game | 2D platformer built with Unity | Coming Soon |
-| 🌐 Portfolio Website | Personal site with bio & contact info | Coming Soon |
+| 🌐 Portfolio Website | Personal site with bio & contact info | [Link](https://alanakandzhi.dev/) |
 
 > 🚧 Work in progress – more updates soon!
 
