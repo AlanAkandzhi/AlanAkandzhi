@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Alan 👋</h1>
 
 <p align="center">
-🎮 Game Dev & Design • 🎓 Esports Graduate • 👨‍💻 CS Student • 🖥️ Tech Enthusiast  
+🎮 Game Dev & Backend Engineering • 🎓 Esports Graduate • 👨‍💻 CS Student • 🖥️ Tech Enthusiast  
 </p>
 
 ---
@@ -17,19 +17,19 @@ public class AlanAkandzhi
 
     public string[] Education => new string[]
     {
-        "BSc in Academic Esports (Univeristy_of_Agder)",
-        "Currently studying: BSc in Informatics & Computer Science (Varna_Free_University, expected 2026/2027)"
+        "BSc in Academic Esports (University_of_Agder, 2025)",
+        "Currently studying: BSc in Informatics & Computer Science (Varna_Free_University, expected 2027)"
     };
 
     public string[] FieldsOfInterest => new string[]
     {
         "Game Development",
-        "Game Design",
-        "Software Development",
+        "Backend Engineering",
+        "Software Architecture",
         "Web Development",
         "Cybersecurity",
         "Networking",
-        "UI/UX"
+        "Scalable Systems"
     };
 }
 ```
@@ -45,14 +45,14 @@ public class AlanAkandzhi
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Unity](https://skillicons.dev/icons?i=unity)
-![Figma](https://skillicons.dev/icons?i=figma)
 ![Git](https://skillicons.dev/icons?i=git)
-![VS Code](https://skillicons.dev/icons?i=vscode)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
 
 ---
 
 ## 📚 I Want to Learn
+
+These are the next technologies I’m diving into to level up as a developer - helping me build more powerful backend services, cross-platform apps, and tools that make life easier for players and developers.
 
 ![React](https://skillicons.dev/icons?i=react)
 ![Go](https://skillicons.dev/icons?i=go)
@@ -61,15 +61,17 @@ public class AlanAkandzhi
 
 ---
 
-## 🛠 Projects
+## 🚀 Highlighted Projects  
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| 🎮 Building cool stuff | A big Project inc | Coming Soon |
-| 🕹️ Unity Game | 2D platformer built with Unity | Coming Soon |
-| 🌐 Portfolio Website | Personal site with bio & contact info | [Link](https://alanakandzhi.dev/) |
+| 🛡️ Arena Clash | C++ turn-based battle game demonstrating OOP architecture and modular design | ✅ Completed |
+| 🏰 Rogue Defense | Tower defense game with wave scaling, UI, and optimized rendering | ✅ Completed |
+| 🌐 CRUD App | Full-stack Flask web app with RESTful backend and JSON persistence | ✅ Completed |
+| 🧠 MaokAI | AI-powered League of Legends coaching concept with analytics and player data | ✅ Completed |
+| 🖥️ Portfolio Website | Personal portfolio site with projects, contact info, and CI/CD deployment | ✅ Completed |
 
-> 🚧 Work in progress – more updates soon!
+> 🚧 More projects coming soon — including backend systems, APIs, and real-time services!
 
 ---
 
