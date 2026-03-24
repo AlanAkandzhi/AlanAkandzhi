@@ -68,11 +68,11 @@ public class AlanAkandzhi
 
 ## What I Focus On
 
-C++ and C# project development
-Gameplay systems and prototyping
-Unreal Engine and Unity workflows
-Clean project structure and practical implementation
-Building stronger technical portfolio pieces over time
+- [x] C++ and C# project development
+- [x] Gameplay systems and prototyping
+- [x] Unreal Engine and Unity workflows
+- [x] Clean project structure and practical implementation
+- [x] Building stronger technical portfolio pieces over time
 
 ---
 
