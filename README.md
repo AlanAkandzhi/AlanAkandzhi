@@ -1,42 +1,44 @@
-<h1 align="center">Hey there, I'm Alan 👋</h1>
+<h1 align="center">Alan Akandzhi</h1>
 
 <p align="center">
-🎮 Game Dev & Backend Engineering • 🎓 Esports Graduate • 👨‍💻 CS Student • 🖥️ Tech Enthusiast  
+  Game Development • Software Engineering • C++ / C# • Unreal Engine / Unity
+</p>
+
+<p align="center">
+  Sofia, Bulgaria • <a href="https://www.linkedin.com/in/alan-akandzhi-24487b344/">LinkedIn</a> • <a href="https://alanakandzhi.dev">Portfolio</a> • <a href="mailto:akandzhialan@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🧠 About Me 
+## About Me
 
 ```csharp
 public class AlanAkandzhi
 {
-    public string Name => "Alan Akandzhi";
-    public int BirthYear => 2002;
     public string Location => "Sofia, Bulgaria";
 
     public string[] Education => new string[]
     {
-        "BSc in Academic Esports (University_of_Agder, 2025)",
-        "Currently studying: BSc in Informatics & Computer Science (Varna_Free_University, expected 2027)"
+        "BSc in Academic Esports & Game Technologies (University of Agder, 2025)",
+        "BSc in Informatics & Computer Science (Varna Free University, in progress)"
     };
 
-    public string[] FieldsOfInterest => new string[]
+    public string[] FocusAreas => new string[]
     {
         "Game Development",
-        "Backend Engineering",
-        "Software Architecture",
-        "Web Development",
-        "Cybersecurity",
-        "Networking",
-        "Scalable Systems"
+        "Software Engineering",
+        "C++",
+        "C#",
+        "Unreal Engine",
+        "Unity",
+        "Technical Projects"
     };
 }
 ```
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![C#](https://skillicons.dev/icons?i=cs)
 ![C++](https://skillicons.dev/icons?i=cpp)
@@ -50,39 +52,31 @@ public class AlanAkandzhi
 
 ---
 
-## 📚 I Want to Learn
-
-These are the next technologies I’m diving into to level up as a developer - helping me build more powerful backend services, cross-platform apps, and tools that make life easier for players and developers.
-
-![React](https://skillicons.dev/icons?i=react)
-![Go](https://skillicons.dev/icons?i=go)
-![Swift](https://skillicons.dev/icons?i=swift)
-![Rust](https://skillicons.dev/icons?i=rust)
-
----
-
-## 🚀 Highlighted Projects  
+## Highlighted Projects  
 
 | Project | Description | Status |
 |--------|-------------|--------|
 | 🛡️ Arena Clash | C++ turn-based battle game demonstrating OOP architecture and modular design | ✅ Completed |
 | 🏰 Rogue Defense | Tower defense game with wave scaling, UI, and optimized rendering | ✅ Completed |
 | 🌐 CRUD App | Full-stack Flask web app with RESTful backend and JSON persistence | ✅ Completed |
-| 🧠 MaokAI | AI-powered League of Legends coaching concept with analytics and player data | ✅ Completed |
+| ⚙️ CppSystemsSandbox | C++ systems sandbox comparing naive collision checks, object pooling, and spatial grid partitioning | ✅ Completed |
 | 🖥️ Portfolio Website | Personal portfolio site with projects, contact info, and CI/CD deployment | ✅ Completed |
 
-> 🚧 More projects coming soon — including backend systems, APIs, and real-time services!
+> 🚧 More projects coming soon
 
 ---
 
-## 📬 Connect with Me
+## What I Focus On
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-akandzhi-24487b344/)
-📧 akandzhialan@gmail.com
+C++ and C# project development
+Gameplay systems and prototyping
+Unreal Engine and Unity workflows
+Clean project structure and practical implementation
+Building stronger technical portfolio pieces over time
 
 ---
 
 <p align="center">
-  <i>“Still trying to center a div, but already designing multiplayer games.”</i>
+  <i>Interested in building technical systems, gameplay mechanics, and practical software projects.</i>
 </p>
 
