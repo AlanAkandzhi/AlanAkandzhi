@@ -1,7 +1,7 @@
 <h1 align="center">Alan Akandzhi</h1>
 
 <p align="center">
-  Game Development • Software Engineering • C++ / C# • Unreal Engine / Unity
+  Game Development • Game design • C++ / C# • Unreal Engine / Unity
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ public class AlanAkandzhi
     public string[] FocusAreas => new string[]
     {
         "Game Development",
-        "Software Engineering",
+        "Game design",
         "C++",
         "C#",
         "Unreal Engine",
