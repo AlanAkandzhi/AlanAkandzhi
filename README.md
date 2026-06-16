@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Sofia, Bulgaria • <a href="https://www.linkedin.com/in/alan-akandzhi-24487b344/">LinkedIn</a> • <a href="https://alanakandzhi.dev">Portfolio</a> • <a href="mailto:akandzhialan@gmail.com">Email</a>
+  Warsaw, Poland • <a href="https://www.linkedin.com/in/alan-akandzhi-24487b344/">LinkedIn</a> • <a href="https://alanakandzhi.dev">Portfolio</a> • <a href="mailto:akandzhialan@gmail.com">Email</a>
 </p>
 
 ---
