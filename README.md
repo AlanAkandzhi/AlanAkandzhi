@@ -15,7 +15,7 @@
 ```csharp
 public class AlanAkandzhi
 {
-    public string Location => "Sofia, Bulgaria";
+    public string Location => "Warsaw, Poland";
 
     public string[] Education => new string[]
     {
