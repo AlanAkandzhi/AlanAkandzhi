@@ -20,7 +20,7 @@ public class AlanAkandzhi
     public string[] Education => new string[]
     {
         "BSc in Academic Esports & Game Technologies (University of Agder, 2025)",
-        "BSc in Informatics & Computer Science (Varna Free University, in progress)"
+        "BSc in Informatics & Computer Science (Varna Free University, 2026)"
     };
 
     public string[] FocusAreas => new string[]
